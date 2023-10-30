@@ -1,0 +1,18 @@
+{
+    "manifest_version" : 3,
+    "version":"1.0",
+    "name" : "Lead Tracker",
+    "description" : "Track your Leads",
+    "icons": {
+          "16": "logo.png",
+          "48": "logo.png",
+          "128": "logo.png"
+   },
+    "action" : {
+          "default_popup" : "index.html",
+          "default_icon"  : "logo.png"
+     } ,
+     "permissions": [
+          "tabs"
+        ]
+}

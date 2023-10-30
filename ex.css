@@ -1,0 +1,68 @@
+body{
+    min-width: 400px;
+    margin: 0;
+    padding: 10px;
+}
+#saveinput_btn{
+    background-color: #1d1a44;
+    color: white;
+    border: none;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#tab_btn{
+    background-color: #1d1a44;
+    color: white;
+    border: none;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
+}
+#delete_btn{
+    background-color: white;
+    color: #1d1a44;
+    border: 2px solid #1d1a44;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+
+}
+#input_box{
+    width: 100%;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    border: 2px solid #1d1a44;
+    margin-bottom: 10px;
+}
+li{
+    color: #1d1a44;
+    text-decoration: none;
+    margin: 10px;
+}
+li a{
+    margin-top: 10px;
+    color:#1d1a44;
+    text-decoration: none;
+
+}
+ul{
+    color: #1d1a44;
+    text-decoration: none;
+    list-style: none;
+    padding: 2px;
+    margin-top: 10px;
+    font-family: cursive;
+    font-size: 20px;
+}
+#close_btn{
+    font-family: monospace;
+    color: black;
+    float:right;
+    cursor: pointer;
+}
+.links_wrapper{
+    display: inline;
+    width: 400px;
+}
